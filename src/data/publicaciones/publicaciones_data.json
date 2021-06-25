@@ -1,0 +1,41 @@
+{
+  "name": "Ramas",
+  "proyectosdesc":[
+    {"id":1,"name":"Cadena hortifruticola 2008-2019","desc":"Hola este es la desc del primer proyecto de prueba"},
+    {"id":2,"name":"Analisis estadistico","desc":"Hola este es la desc del segundo proyecto de prueba"},
+    {"id":3,"name":"Documentacion refriaire  SAS","desc":"Hola este es la desc del tercero proyecto de prueba"},
+    {"id":3,"name":"Documentacion refriaire  SAS","desc":"Hola este es la desc del tercero proyecto de prueba"},
+    {"id":3,"name":"Documentacion refriaire  SAS","desc":"Hola este es la desc del tercero proyecto de prueba"},
+    {"id":3,"name":"Documentacion refriaire  SAS","desc":"Hola este es la desc del tercero proyecto de prueba"},
+    {"id":3,"name":"Documentacion refriaire  SAS","desc":"Hola este es la desc del tercero proyecto de prueba"},
+    {"id":3,"name":"Documentacion refriaire  SAS","desc":"Hola este es la desc del tercero proyecto de prueba"}
+  ],
+  "articlesdesc":[
+    {"id":1,"name":"Presentacion ponencia en congreso 'In Proceedings of the Conference on industrial processes'","desc":"Ponencia análisis estadístico de la producción y exportación de la cadena horticultora en colombia y proyecciones usando técnicas de pronostico","institucion":"U. Santo Tomas"},
+    {"id":2,"name":"Proyecto Empresarial","desc":"Apaptacion y ajuste de sistema de informacion SIESA en la compañia Republica Independiente, consolidacion de la data, ajuste de maestros, generacion de politicas y procesos y continua capaciacion y soporte","institucion":"Nueva Botella - Republica Independiente"},
+    {"id":2,"name":"Proyecto Empresarial","desc":"Integracion de sistema de informacion empresarial SIESA junto con terceros clientes y proveedores asi como generaciond de la infraestructura tecnologica","institucion":"Nueva Botella - Republica Independiente"}
+  ],
+  "cursos":[
+    {"id":1,"name":"Curso Profesional de Bases de Datos","desc":"Duracion: 60 horas","institucion":"CodigoFacilito"},
+    {"id":1,"name":"Curso Profesional de GO","desc":"Duracion: 60 horas","institucion":"CodigoFacilito"},
+    {"id":1,"name":"Project Management & Other Tools for Career Development","desc":"Duracion: 60 horas","institucion":"Coursera"},
+    {"id":3,"name":"Python & Postgres Developer Course","desc":"Duracion: 60 horas","institucion":"Udemy"},
+    {"id":1,"name":"Python for Data Science","desc":"Duracion: 60 horas","institucion":"Coursera"},
+    {"id":2,"name":"Python","desc":"Duracion: 12 horas","institucion":"MinTIC Make it real"},
+    {"id":4,"name":"Internet de todo (IOT)","desc":"Duracion: 60 horas","institucion":"CISCO"},
+    {"id":4,"name":"NDG Linux Essentials","desc":"Duracion: 60 horas","institucion":"CISCO"},
+    {"id":6,"name":"Seminario Casos de Estudio","desc":"Duracion: 80 horas","institucion":"Universidad ECCI"}
+  ],
+  "software":[
+    {"id":1,"name":"Idiomas","desc":"Fuertes competencias en lectura, escritura y expresión oral en el idioma ingles","institucion":"Ingles"},
+    {"id":1,"name":"SO de codigo abierto","desc":"Admon de Servidores de codigo abierto Debian, Ubuntu, Centos, Parrot . . .","institucion":"LINUX"},
+    {"id":1,"name":"Herramientas CLOUD","desc":"Compute engine, sql instances","institucion":"GOOGLE Cloud"},
+    {"id":1,"name":"Lenguajes de programacion","desc":"Python, GO, Matlab, sql, xml, LATEX","institucion":"CODING"},
+    {"id":3,"name":"Databases","desc":"Mysql, Postgresql, Sqlite, SQL Server, Mongo DB","institucion":"SQL"},
+    {"id":1,"name":"Ofimatica","desc":"M. Excel, M. Word, M Power Point, M. Visio, M. Project","institucion":"Microsoft Office"},
+    {"id":2,"name":"Modelado de objetos","desc":"AutoCad, Inventor","institucion":"CAD"},
+    {"id":4,"name":"Diseño electricó","desc":"DiaLux, DigSilent","institucion":"DE"},
+    {"id":4,"name":"Modelado de procesos","desc":"Promodel, FlexSim","institucion":"DI"},
+    {"id":6,"name":"Sistemas de informacion","desc":"SIESA, World Office","institucion":"ERP's"}
+  ]
+}
